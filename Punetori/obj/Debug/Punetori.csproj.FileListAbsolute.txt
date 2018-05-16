@@ -1,0 +1,73 @@
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\bin\Debug\Punetori.exe.config
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.exe
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.pdb
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\bin\Debug\Punetori.exe
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.csprojResolveAssemblyReference.cache
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjstroPunetor.resources
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.FrmAboutUs.resources
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.frmLogin.resources
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.FrmHome.resources
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.frmPunetorimepaga.resources
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjistroPagen.resources
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.Properties.Resources.resources
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\obj\Debug\Punetori.csproj.GenerateResource.Cache
+C:\Users\Përparim\Desktop\ProjPOO\Punetori\bin\Debug\Punetori.pdb
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.exe.config
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.exe
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.pdb
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.exe
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.pdb
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.csprojResolveAssemblyReference.cache
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjstroPunetor.resources
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmAboutUs.resources
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.frmLogin.resources
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmHome.resources
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.frmPunetorimepaga.resources
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjistroPagen.resources
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.Properties.Resources.resources
+C:\Users\Përparim\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.csproj.GenerateResource.Cache
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.exe.config
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.exe
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.pdb
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.exe
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.pdb
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.csprojResolveAssemblyReference.cache
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjstroPunetor.resources
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmAboutUs.resources
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.frmLogin.resources
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmHome.resources
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.frmPunetorimepaga.resources
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjistroPagen.resources
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.Properties.Resources.resources
+C:\Users\Lushaj\Desktop\Viti-II\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.csproj.GenerateResource.Cache
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.exe.config
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.exe
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.pdb
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.exe
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.pdb
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.csprojResolveAssemblyReference.cache
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjstroPunetor.resources
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmAboutUs.resources
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.frmLogin.resources
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmHome.resources
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.frmPunetorimepaga.resources
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjistroPagen.resources
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.Properties.Resources.resources
+C:\Users\Lushaj\Desktop\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.csproj.GenerateResource.Cache
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.exe.config
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.exe
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.pdb
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.exe
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\bin\Debug\Punetori.pdb
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.csprojResolveAssemblyReference.cache
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjstroPunetor.resources
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmAboutUs.resources
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.frmLogin.resources
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmHome.resources
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.frmPunetorimepaga.resources
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.FrmRegjistroPagen.resources
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.Properties.Resources.resources
+E:\UP_Literatura\Viti-II\Semestri i III\POO CTRL +K+D\ProjPOO\Punetori\obj\Debug\Punetori.csproj.GenerateResource.Cache
+C:\Users\Perpa\Desktop\Dergim\Punetori_Semestri3\Punetori\bin\Debug\Punetori.exe.config
+C:\Users\Perpa\Desktop\Dergim\Punetori_Semestri3\Punetori\obj\Debug\Punetori.exe
+C:\Users\Perpa\Desktop\Dergim\Punetori_Semestri3\Punetori\obj\Debug\Punetori.pdb
